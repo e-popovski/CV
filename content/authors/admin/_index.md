@@ -52,8 +52,8 @@ interests:
   - Data Science and Statistics
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
+  - area: PhD Energy Modeling 
+    institution: University of Freiburg
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
