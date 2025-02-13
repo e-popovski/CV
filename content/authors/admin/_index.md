@@ -184,3 +184,5 @@ awards:
 ## About Me
 
 Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+
+Eftim Popovski is a mechanical engineer and has more than 12 years of experience in the heating and cooling supply sector. His expertise includes system design, energy efficiency and modeling of district heating networks, with a focus on spatial data science. He has extensive experience in optimizing energy systems, integrating new technologies and analyzing the economic and technical feasibility of heating and cooling solutions. Dr. Popovski combines research and industry and uses data-driven approaches to improve the efficiency and sustainability of heating and cooling networks. Spatial analyses, simulation models and techno-economic assessments are key elements of his working method, which he uses to significantly support decision-making in the planning of energy infrastructures.
