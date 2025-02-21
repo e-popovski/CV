@@ -153,11 +153,15 @@ skills:
         icon: camera
 
 languages:
-  - name: English
+  - name: Macedonian
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
+  - name: German
+    percent: 90
+  - name: English
+    percent: 90
+  - name: Serbian/Croatian
+    percent: 90
+  - name: Spanish
     percent: 25
 
 # Awards.
