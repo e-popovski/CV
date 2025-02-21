@@ -86,7 +86,7 @@ education:
 work:
   - position: Senior Researcher
     company_name: IREES
-    company_url: 'https://irees.de/en/home-en/'
+    company_url: https://irees.de/en/home-en/
     company_logo: ''
     date_start: 2019-01-02
     date_end: ''
@@ -97,7 +97,7 @@ work:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - position: Researcher 
     company_name: Fraunhofer Institute for Systems and Innovation Research ISI
-    company_url: 'https://www.isi.fraunhofer.de/en.html'
+    company_url: https://www.isi.fraunhofer.de/en.html
     company_logo: ''
     date_start: 2016-01-05
     date_end: 2019-01-01
