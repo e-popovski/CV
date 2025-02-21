@@ -92,9 +92,9 @@ work:
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Municipal heat planning and spatial data analysis
+      - District heating modeling 
+      - Project acquisition and project management
   - position: Researcher 
     company_name: Fraunhofer Institute for Systems and Innovation Research ISI
     company_url: https://www.isi.fraunhofer.de/en.html
