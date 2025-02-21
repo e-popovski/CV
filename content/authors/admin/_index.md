@@ -84,8 +84,8 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Senior Researcher
+    company_name: IREES
     company_url: ''
     company_logo: ''
     date_start: 2021-01-01
