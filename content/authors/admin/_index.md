@@ -86,8 +86,8 @@ education:
 work:
   - position: Senior Researcher
     company_name: IREES
-    company_url: ''
-    company_logo: 'https://irees.de/en/home-en/'
+    company_url: 'https://irees.de/en/home-en/'
+    company_logo: ''
     date_start: 2019-01-02
     date_end: ''
     summary: |2-
