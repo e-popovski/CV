@@ -84,27 +84,17 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Senior Researcher and Project Manager
-    company_name: Institute for Ressource Efficiency and Energy Strategies 
+  - position: Director of Cloud Infrastructure
+    company_name: GenCoin
     company_url: ''
-    company_logo: 'https://irees.de/en/home-en/'
-    date_start: 2019-01-02
-    date_end: 'present'
+    company_logo: ''
+    date_start: 2021-01-01
+    date_end: ''
     summary: |2-
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Researcher 
-    company_name: Fraunhofer Institute for Systems and Innovation Research ISI
-    company_url: 'https://www.isi.fraunhofer.de/en.html'
-    date_start: 2016-01-05
-    date_end: 2019-01-02
-    summary: 
-      Resposibilities include
-      -A
-      -B
-      -C
   - position: Backend Software Engineer
     company_name: X
     company_url: ''
@@ -116,7 +106,6 @@ work:
       - Migrated infrastructure to a new data center
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
