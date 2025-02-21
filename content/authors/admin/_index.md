@@ -84,12 +84,12 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Senior Researcher and Project Manager
-    company_name: Institute for Ressource Efficiency and Energy Strategies IREES
+  - position: Director of Cloud Infrastructure
+    company_name: GenCoin
     company_url: ''
     company_logo: ''
-    date_start: 2019-01-02
-    date_end: 'present'
+    date_start: 2021-01-01
+    date_end: ''
     summary: |2-
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
